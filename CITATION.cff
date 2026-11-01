@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: "Code and data for: Closed-Form Reference Governor for Discrete-Domain PMSM Current Regulators: Exact Loop Reduction and Recursive Feasibility in Field Weakening"
+authors:
+  - family-names: Vo
+    given-names: Thanh Ha
+    affiliation: "University of Transport and Communications, Hanoi, Vietnam"
+version: "v7"
+date-released: "2026-11-01"
+license: MIT
